@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "fanalytics-sports"
+  site-url: https://www.fanalytics-sports.github.io
+  description: "Viewing sports through the data lens"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/fanalyitcs-sports.github.io/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
